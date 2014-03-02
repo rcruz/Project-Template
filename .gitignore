@@ -1,11 +1,4 @@
-.idea/*
-node_modules/
-build/.idea/*
-solution/.idea/*
-.project
-.settings
-*.DS_Store
-tags
-*.*~
-*.swp
-www/*
+.DS_Store
+node_modules
+.grunt
+public/js/project-template.js
